@@ -4,7 +4,6 @@
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=seojungmin123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=4&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seojungmin123&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="300" alt="languages graph"  />
 </div>
 
 ###
