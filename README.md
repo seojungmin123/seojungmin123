@@ -2,7 +2,10 @@
 
 ###
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=seojungmin123&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=seojungmin123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=4&order=3" height="150" alt="streak graph"  />
+</div>
+
 ###
 
 <h2 align="left">Studying...</h2>
