@@ -2,9 +2,7 @@
 
 ###
 
-<div align="left">
 [![GitHub Streak](https://streak-stats.demolab.com?user=seojungmin123&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</div>
 
 ###
 
